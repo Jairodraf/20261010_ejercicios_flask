@@ -1,0 +1,24 @@
+:root {
+    --color-blanco: #cfddef;
+}
+
+h1{
+    background-color: red !important;
+    color: white;
+    padding: 10px;
+    text-shadow: 0 0 8px #fff, 0 0 20px #fff;
+}
+
+body{
+    background-color: var(--color-blanco);
+}
+
+footer{
+    width: 100%;
+    background-color: burlywood;
+    margin: 0.4rem;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+}
+
